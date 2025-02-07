@@ -4,8 +4,6 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 
 ## **Week 1: Java Fundamentals & Core Programming**
 
----
-
 ### **📌 Day 1 (Feb 10) – Java Basics & Control Flow**
 #### **Goals:** Understand Java syntax, variables, data types, and basic control flow.
 ✅ Install Java & IDE  
@@ -19,6 +17,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 - FizzBuzz
 - Find the largest of three numbers
 
+
 ### **📌 Day 2 (Feb 11) – Methods & Advanced Control Flow**
 #### **Goals:** Learn modular programming and advanced loop concepts.
 ✅ Define and call methods  
@@ -29,6 +28,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 - GCD (Greatest Common Divisor) method
 - Check if a number is prime
 - Right-angled triangle with stars
+
 
 ### **📌 Day 3 (Feb 12) – Arrays, ArrayLists & Strings**
 #### **Goals:** Work with arrays, ArrayLists, and basic string manipulation.
@@ -41,6 +41,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 - Check if a string is a palindrome
 - Remove duplicates from an ArrayList
 
+
 ### **📌 Day 4 (Feb 13) – OOP Basics (Classes, Objects, Constructors)**
 #### **Goals:** Understand classes, objects, and constructors.
 ✅ Create classes & objects  
@@ -50,6 +51,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### **Practice:**
 - Create a Car class (brand, speed)
 - Implement a Student class with private attributes
+
 
 ### **📌 Day 5 (Feb 14) – Inheritance & Polymorphism**
 #### **Goals:** Learn class hierarchies and polymorphism.
@@ -63,6 +65,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 
 ## **Week 2: Advanced Concepts & Data Structures**
 
+
 ### **📄 Day 6 (Feb 15) – Abstract Classes & Interfaces**
 #### **Goals:** Dive into abstraction and interface implementation.
 ✅ Abstract classes & methods  
@@ -71,6 +74,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### **Practice:**
 - Employee abstract class with subclasses (Manager, Developer)
 - Playable interface for game characters
+
 
 ### **📄 Day 7 (Feb 16) – Exception Handling & File I/O**
 #### **Goals:** Handle runtime errors and basic file operations.
@@ -83,6 +87,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 - Custom exception for invalid age
 - Write & read from a text file
 
+
 ### **📄 Day 8 (Feb 17) – Recursion & Searching Algorithms**
 #### **Goals:** Implement recursion and searching techniques.
 ✅ Recursion basics  
@@ -93,6 +98,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 - Fibonacci sequence (recursive)
 - Binary search on a sorted array
 
+
 ### **📄 Day 9 (Feb 18) – Sorting Algorithms & Linked Lists (Optional)**
 #### **Goals:** Understand sorting algorithms and linked lists.
 ✅ Bubble Sort, Selection Sort  
@@ -101,6 +107,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### **Practice:**
 - Implement Bubble Sort
 - Create a basic LinkedList class with add() method
+
 
 ### **📄 Day 10 (Feb 19) – Mock Midterm & Review**
 #### **Goals:** Consolidate knowledge and simulate the midterm environment.
