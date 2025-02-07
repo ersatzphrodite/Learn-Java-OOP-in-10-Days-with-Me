@@ -2,8 +2,6 @@
 
 I royally messed up by getting delayed by a year, so now I have to deal with the curriculum change (EVERYTHING IS JAVA; my Introduction to Programming course was taught in Python), and now, I have about less than two weeks to actually learn it from scratch before the midterm. Let's get goin'!
 
-Sure thing! Since you'll start on Monday, February 10, we'll redistribute the 14-day curriculum over the remaining days until February 19. This gives us 10 days, so we'll need to combine some lessons while ensuring you still get enough practice and review time.
-
 ## 📅 10-Day Java Crash Course
 
 ### Week 1: Java Fundamentals & Core Programming
