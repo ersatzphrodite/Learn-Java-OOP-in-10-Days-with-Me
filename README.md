@@ -5,7 +5,7 @@ Sure thing! Since you'll start on **Monday, February 10**, we'll **redistribute 
 
 ---
 
-# 📅 **Revised 10-Day Java Crash Course**  
+# 📅 **10-Day Java Crash Course**  
 
 ## **Week 1: Java Fundamentals & Core Programming**
 ### **📌 Day 1 (Feb 10) – Java Basics & Control Flow**  
