@@ -119,7 +119,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 - Implement a simple banking system
 - Solve at least 5 problems on LeetCode/HackerRank
 
----
+
 
 ## **🎡 Final Tips**
 - Prioritize coding daily, even if it’s just for 30 minutes.
