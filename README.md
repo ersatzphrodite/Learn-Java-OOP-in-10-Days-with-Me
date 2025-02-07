@@ -9,6 +9,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 1 (Feb 10) – Java Basics & Control Flow
 
 🔹 **Goals:** Understand Java syntax, variables, data types, and basic control flow.
+
 ✅ Install Java & IDE  
 ✅ Write a "Hello, World!" program  
 ✅ Variables, data types, operators  
@@ -23,6 +24,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 2 (Feb 11) – Methods & Advanced Control Flow
 
 🔹 **Goals:** Learn modular programming and advanced loop concepts.
+
 ✅ Define and call methods  
 ✅ Method overloading  
 ✅ Nested loops  
@@ -35,6 +37,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 3 (Feb 12) – Arrays, ArrayLists & Strings
 
 🔹 **Goals:** Work with arrays, ArrayLists, and basic string manipulation.
+
 ✅ Array & ArrayList basics  
 ✅ String operations  
 ✅ StringBuilder usage  
@@ -47,6 +50,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 4 (Feb 13) – OOP Basics (Classes, Objects, Constructors)
 
 🔹 **Goals:** Understand classes, objects, and constructors.
+
 ✅ Create classes & objects  
 ✅ Define constructors  
 ✅ Encapsulation with getters/setters  
@@ -58,6 +62,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 5 (Feb 14) – Inheritance & Polymorphism
 
 🔹 **Goals:** Learn class hierarchies and polymorphism.
+
 ✅ Inheritance (extends keyword)  
 ✅ Method overriding  
 ✅ Basic polymorphism  
@@ -71,6 +76,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 6 (Feb 15) – Abstract Classes & Interfaces
 
 🔹 **Goals:** Dive into abstraction and interface implementation.
+
 ✅ Abstract classes & methods  
 ✅ Implementing interfaces  
 
@@ -81,6 +87,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 7 (Feb 16) – Exception Handling & File I/O
 
 🔹 **Goals:** Handle runtime errors and basic file operations.
+
 ✅ Try-catch blocks  
 ✅ Custom exceptions  
 ✅ Basic file reading/writing  
@@ -93,6 +100,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 8 (Feb 17) – Recursion & Searching Algorithms
 
 🔹 **Goals:** Implement recursion and searching techniques.
+
 ✅ Recursion basics  
 ✅ Binary search  
 ✅ Recursive factorial  
@@ -104,6 +112,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 9 (Feb 18) – Sorting Algorithms & Linked Lists (Optional)
 
 🔹 **Goals:** Understand sorting algorithms and linked lists.
+
 ✅ Bubble Sort, Selection Sort  
 ✅ Singly Linked List basics  
 
@@ -114,6 +123,7 @@ I royally messed up by getting delayed by a year, so now I have to deal with the
 #### 📌 Day 10 (Feb 19) – Mock Midterm & Review
 
 🔹 **Goals:** Consolidate knowledge and simulate the midterm environment.
+
 ✅ Mock problems covering all topics  
 ✅ Debugging exercises  
 ✅ Quick review of tricky concepts  
